@@ -1,2 +1,11 @@
 # AirBNB_data_analysis
-the first project included in the data scientist nanodegree
+
+## project overview
+ this project is the data analysis based on the open AirBnB dataset. 
+ 
+## package used in this project
+pandas  \
+numpy \
+plotly \
+datatable \
+matlibplot
